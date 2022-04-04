@@ -1,0 +1,21 @@
+Guidelines, good practices and tips
+===================================
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents:
+
+   good_practices
+   dev_tools
+   resources
+   glossary
+   bugs_report
+   biblio
+   misc
+   support
+
+* `Inventory <https://github.com/orgs/Ceramic-Blue-Tim/projects/1>`_
+
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
