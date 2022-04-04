@@ -2,7 +2,7 @@
 
 ## Github Pages
 
-Here is the link to the Github Pages for : [Guidelines](https://ceramic-blue-tim.github.io/Guidelines/)
+Here is the link to the Github Pages for : [Guidelines](https://tatsuyaosaki.github.io/Documentation/)
 
 ## Contributing
 
