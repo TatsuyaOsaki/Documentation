@@ -1,4 +1,4 @@
-# Guidelines, good practices and tips
+# Documentation
 
 ## Github Pages
 
